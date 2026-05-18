@@ -22,12 +22,12 @@ Based on sensor input, the microcontroller adjusts motor movement to keep the ro
 ---
 
 ## Components Used
-- Microcontroller (Arduino)
+- Microcontroller (Arduino Uno)
 - Line Sensors (IR sensors)
-- Motor Driver (L298N or similar)
+- Motor Driver (L298N)
 - DC Motors
 - Wheels & Chassis
-- Power Supply
+- Power Supply 5V
 
 ---
 
